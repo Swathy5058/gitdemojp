@@ -1,0 +1,12 @@
+1. mkdir gitdemo
+2. git config --global user.email "swathyba5058@gmail.com"
+3. git config --global user.name "Swathy5058"
+4. git config --global -l
+5. touch hello1.txt hello2.txt
+6. git init
+7. git status
+8. git add *
+9.  git rm --cached file.txt
+    git rm --cached hello1.txt
+    git rm --cached hello.txt
+10. git commit -m "initial version"

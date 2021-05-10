@@ -1,0 +1,9 @@
+1. mkdir gitdemo
+2. git config --global user.email "swathyba5058@gmail.com"
+3. git config --global user.name "Swathy5058"
+4. git config --global -l
+5. touch hello1.txt hello2.txt
+6. git init
+7. git status
+8. git add *
+9. 
